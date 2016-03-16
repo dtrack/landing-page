@@ -6,5 +6,3 @@ Quick Setup:
  $ bower install
  $ grunt server
 ```
-
-test PR
